@@ -1,3 +1,22 @@
+/*
+Fuentes:
+font-family: 'Righteous', cursive;
+Color:
+color1 #008791
+color2 #00936e
+color3 #6bb36d
+color4 #c5d084
+color5 #f7d393
+*/
+
 table {
     border-spacing: 30px;
+}
+.text-center{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+a{
+    text-decoration: none;
 }
