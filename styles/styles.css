@@ -1,6 +1,6 @@
 /*
 Fuentes:
-font-family: 'Righteous', cursive;
+font-family: 'Montserrat', sans-serif;
 Color:
 color1 #008791
 color2 #00936e
@@ -19,4 +19,33 @@ table {
 }
 a{
     text-decoration: none;
+    color: white;
+    font-size: large;
+}
+.nombre{
+    text-decoration: underline;
+    font-size: larger;
+    text-decoration-color: blueviolet;
+}
+body{
+    background-color: black;
+}
+
+.parrafo{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.boton{
+    color: blue;
+}
+button{
+    background-color: rgb(81, 97, 245);
+}
+.sesion{
+    color: rgb(223, 27, 180);
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-size: x-large;
+    font-family: 'Montserrat', sans-serif;
 }
